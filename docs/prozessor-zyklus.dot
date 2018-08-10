@@ -1,0 +1,3 @@
+digraph G {
+  Lesen -> Dekodieren -> Ausführen -> Schreiben -> Lesen
+}
